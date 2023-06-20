@@ -1,0 +1,16 @@
+.odd {
+    background-color: #ffb6c1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#ID {
+    color: rgb(25, 0, 255);
+    font-size: 36px;
+}
+.odd.odder{
+    font-size: 24px;
+}
+#ID2 {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
